@@ -1,7 +1,13 @@
 # 01-database-sql
 
 - 강의: 김영한의 실전 데이터베이스 입문 - 모든 IT인을 위한 SQL 첫걸음(SQL부터 차근차근)
-  - SQL 실습 프로젝트 01
+- 노션 정리: [03-01. 김영한의 실전 데이터베이스 입문 - 모든 IT인을 위한 SQL 첫걸음(SQL부터 차근차근)](https://app.notion.com/p/03-01-IT-SQL-SQL-3cff48fe5cb380628871cb95f83e4872?source=copy_link)
+
+
+
+<br />
+
+
 
 ## MySQL Docker compose
 
